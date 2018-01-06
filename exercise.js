@@ -16,6 +16,8 @@ var hof = ["Jordan", "Bird", "Kobe", "Duncan", "Iverson", "Bonner"];
 var notHof = hof.pop();
 console.log(notHof);
 console.log(hof);
+console.log("test");
+
 
 // var notHof = hof.pop();
 // console.log(notHof);
